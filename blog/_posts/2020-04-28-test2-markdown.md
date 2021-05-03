@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Sample
 subtitle: Each post also has a subtitle
-gh-repo: seokho-son/seokho-son.github.io
+gh-repo: 
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
 comments: true
@@ -59,20 +59,4 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
 
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.

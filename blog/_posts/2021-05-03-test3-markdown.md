@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Sample==>(3번째 테스트글 게시제목)
+title: Markdown Sample3==>(3번째 테스트글 게시제목)
 subtitle: Each post also has a subtitle
 gh-repo: 
 gh-badge: [star, fork, follow]

@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Sample3==>(3번째 테스트글 게시제목)
 subtitle: Each post also has a subtitle
-gh-repo: 
+gh-repo: techubion/techubion.github.io
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
 comments: true

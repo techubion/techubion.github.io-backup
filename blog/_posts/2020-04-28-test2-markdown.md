@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Sample
+title: Markdown Sample2==>(두번째 게시글 테스트 제목)
 subtitle: Each post also has a subtitle
 gh-repo: 
 gh-badge: [star, fork, follow]
@@ -23,14 +23,6 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 

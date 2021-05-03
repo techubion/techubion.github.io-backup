@@ -2,7 +2,7 @@
 layout: page
 title: Edutech Leading Company
 subtitle: Ubion
-cover-img: /assets/img/background.jpg
+cover-img: /assets/img/background5.jpg
 ---
 
 ### 도원결의(桃園結義)

@@ -1,21 +1,21 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Ubion
+title: UBION
 
 # [수정필요] 간단한 사이트 설명
-description: about ubion careers and tech
+description: ubion careers and tech
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: ubion hr
+author: travis
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 # 커리어와 프로젝트 주석처리
 navbar-links:
   Career: "https://www.notion.so/12218c410da941b795b994745fec8b9f"
-  Publication: "publication"
   Blog: "blog"
+  Publication: "publication"
 #  Project: "project"
 # GitHub: "https://github.com/techubion"
  

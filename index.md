@@ -64,6 +64,5 @@ canonical: https://heliumjk.github.io
         </div>
       </div>
       <!-- End sliders -->
+      <!-- Content area end -->
 </div>
-      
-      

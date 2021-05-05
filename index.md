@@ -2,7 +2,6 @@
 layout: page
 title: 
 subtitle: 
-cover-img:
 ---
 <body style="padding:0px; margin:0px; background-color:#fff;font-family:arial,helvetica,sans-serif,verdana,'Open Sans'">
 

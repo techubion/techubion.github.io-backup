@@ -1,9 +1,3 @@
----
-layout: page
-title: Edutech Leading Company
-subtitle: Ubion
-
----
 
 <img src = "/assets/img/pb-beer-1513436-1600.jpg">
 ### 코페르니쿠스 혁명

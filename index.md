@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Edutech Leading Company
-subtitle: Ubion
-cover-img: /assets/img/background.jpg
+title: edutech leading company
+subtitle: ubion
+css: "/css/index.css"
+meta-title: "Derek Ogle"
+meta-description: "Professor of Mathemetical Sciences and Natural Resources at Northland College."
+bigimg:
+  - "/img/big-imgs/bg1.jpg" : "Arizona, 2017"
+  - "/img/big-imgs/bg2.jpg" : "Arizona, 2017"
+  - "/img/big-imgs/bg3.JPG" : "Winter Sunset, Muskeg, 2017"
+  - "/img/big-imgs/bg4.jpg" : "Vancouver Island, 2016"
+  - "/img/big-imgs/bg5.jpg" : "Vancouver Island, 2016"
 ---
 
 ## 우리는 누구인가?

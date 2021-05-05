@@ -1,6 +1,4 @@
----
-layout: page
----
+
 <body style="padding:0px; margin:0px; background-color:#fff;font-family:arial,helvetica,sans-serif,verdana,'Open Sans'">
 
     <!-- #region Jssor Slider Begin -->
@@ -226,7 +224,7 @@ layout: page
 
 우리는 에듀테크의 코페르니쿠스 혁명을 꿈꾸고 있습니다.
 
-
+1
 
 ##### ‘사람이 먼저, 조직이 뒤에’
 

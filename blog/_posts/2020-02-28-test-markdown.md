@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Markdown Sample=>(첫번째 게시글 제목)
-subtitle: Each post also has a subtitle
-gh-repo: 
+title: 제목명
+subtitle: 부제목
+gh-repo: 깃허브 주소
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
 comments: true
@@ -24,13 +24,9 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
-
+링크 주소
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 

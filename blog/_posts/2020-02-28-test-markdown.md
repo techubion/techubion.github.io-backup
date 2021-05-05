@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 제목명
-subtitle: 부제목
-gh-repo: 깃허브 주소
+title: Markdown Sample=>(첫번째 게시글 제목)
+subtitle: Each post also has a subtitle
+gh-repo: 
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
 comments: true

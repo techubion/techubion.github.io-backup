@@ -14,9 +14,7 @@ author: travis
 # 커리어와 프로젝트 주석처리
 navbar-links:
   Career: "https://www.notion.so/12218c410da941b795b994745fec8b9f"
-  Blog: 
-  - post : "blog"
-  - tag : "tags.html"
+  Blog: "blog"
   Publication: "publication"
   Coursemos: "https://www.coursemos.kr"
 #  Project: "project"

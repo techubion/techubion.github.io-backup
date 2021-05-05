@@ -4,6 +4,13 @@ title:
 subtitle: 
 cover-img: 
 ---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
 <body style="padding:0px; margin:0px; background-color:#fff;font-family:arial,helvetica,sans-serif,verdana,'Open Sans'">
 
     <!-- #region Jssor Slider Begin -->
@@ -221,3 +228,4 @@ cover-img:
     </script>
     <!-- #endregion Jssor Slider End -->
 </body>
+</html>

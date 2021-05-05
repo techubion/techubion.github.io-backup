@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Edutech Leading Company
-subtitle: Ubion
-cover-img: /assets/img/background.jpg
+layout: blog
+title: index
+permalink: /
 ---
 
 ### 코페르니쿠스 혁명
@@ -11,7 +10,7 @@ cover-img: /assets/img/background.jpg
 
 우리는 에듀테크의 코페르니쿠스 혁명을 꿈꾸고 있습니다.
 
-
+1
 
 ##### ‘사람이 먼저, 조직이 뒤에’
 

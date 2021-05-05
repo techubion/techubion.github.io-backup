@@ -1,10 +1,9 @@
 ---
-layout: 
-title: 
-subtitle: 
+layout: page
+title: Edutech Leading Company
+subtitle: Ubion
 cover-img: /assets/img/background.jpg
 ---
-
 
 ### 코페르니쿠스 혁명
 

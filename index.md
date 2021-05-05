@@ -2,9 +2,10 @@
 layout: page
 title: Edutech Leading Company
 subtitle: Ubion
-cover-img: /assets/img/background.jpg
+
 ---
 
+<img src = "/assets/img/pb-beer-1513436-1600.jpg">
 ### 코페르니쿠스 혁명
 
 코페르니쿠스 이후 우리는 혁명적인 교육플랫폼을 구축하여 세상을 가치있게 변화시키기 위해 다양한 사람들이 공동의 목표를 위해 뭉쳤습니다.

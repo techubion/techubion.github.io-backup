@@ -1,5 +1,9 @@
 ---
 layout: page
+title: 
+subtitle: 
+cover-img:
+---
 <body style="padding:0px; margin:0px; background-color:#fff;font-family:arial,helvetica,sans-serif,verdana,'Open Sans'">
 
     <!-- #region Jssor Slider Begin -->
@@ -217,7 +221,7 @@ layout: page
     </script>
     <!-- #endregion Jssor Slider End -->
 </body>
----
+
 
 ### 코페르니쿠스 혁명
 

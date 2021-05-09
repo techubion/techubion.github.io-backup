@@ -1,0 +1,22 @@
+left_links:
+  - name: Career
+    link: https://www.notion.so/12218c410da941b795b994745fec8b9f
+  - name: Blog
+    link: /blog/
+  - name: Publications
+    link: /publications/
+  - name: Coursemos
+    link: https://www.coursemos.kr  
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+right_links:
+  - name:
+    link: https://Linkedin.com/company/coursemos
+    social_icon: LinkedIn
+    new_window: true
+  - name:
+    link: https://www.youtube.com/channel/UCp0eW6Ei9V9APSr5jpTjoig
+    social_icon: YouTube
+    new_window: true

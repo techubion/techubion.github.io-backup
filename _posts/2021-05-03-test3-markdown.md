@@ -6,7 +6,7 @@ categories:
   - document
   - makrdown
 image: https://source.unsplash.com/ksAwrlBLDn8/2000x1322?a=.png
-author_staff_member: james
+author_staff_member:
 ---
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.

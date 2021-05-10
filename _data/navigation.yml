@@ -6,7 +6,7 @@
 - name: Publications
   link: /publications/
 - name: Coursemos
-  link: https://www.coursemos.kr  
+  link: "https://www.coursemos.kr" target="_blank"  
 - name: About
   link: /about/
 - name: Contact

@@ -20,3 +20,7 @@ right_links:
     link: https://www.youtube.com/channel/UCp0eW6Ei9V9APSr5jpTjoig
     social_icon: YouTube
     new_window: true
+  - name:
+    link: https://www.facebook.com/coursemos.seeds
+    social_icon: Facebook
+    new_window: true

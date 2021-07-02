@@ -2,7 +2,8 @@
 # Site
 
 title: Ubion Recruitment
-url: brave-submarine.cloudvent.net/
+# url: brave-submarine.cloudvent.net/
+url: www.ubion.co.kr
 baseurl:
 google_analytics_key: G-PRC8QXFCNM
 google_maps_javascript_api_key:

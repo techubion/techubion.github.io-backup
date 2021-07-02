@@ -4,7 +4,6 @@ date: 2021-04-01
 description: How do i write the markdown type?
 categories:
   - document
-  - makrdown
 image: https://source.unsplash.com/ksAwrlBLDn8/2000x1322?a=.png
 author_staff_member:
 ---
